@@ -22,9 +22,9 @@ In this tutorial you will observe how to add new agents (workers) to your ticket
 
 - Step 1: Log in to osTicket as Administrator. Go to Admin Panel -> Agents -> Agents -> Add New Agent
 - Step 2: Fill out the Account information and set username and password 
-- Step 3: Add Tasks
-- Step 4: Add knowledgebase and create role
-- Step 5: Observe how the role (Supreme Admin) is created with every permission
+- Step 3: Grant Access and Permissions
+- Step 4: Select Group/Team and create
+- Step 5: Observe how the agent (Jane) is successfully created
 
 <p>
 <img width="1922" height="744" alt="image" src="https://github.com/user-attachments/assets/fa4f06d9-4253-4f1e-8376-c2e38ed57229" />
@@ -86,11 +86,3 @@ Observe how Jane was successfully added as an agent
 
 <p>
 <img width="1920" height="802" alt="image" src="https://github.com/user-attachments/assets/b36bc66d-2fd2-4d3c-82e0-a3e8ea9edebb" />
-
-
-
-</p>
-<p>
-Oberve how the "Supreme Admin" Role was create with every permission!
-</p>
-<br />
