@@ -70,7 +70,7 @@ Click on Access and Select the Department "SysAdmin" and the role "Supreme Admin
 
 </p>
 <p>
-Click on Teams and select "Online Banking"
+Click on Teams and select "Online Banking" then click on Create
 </p>
 <br />
 
